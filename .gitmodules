@@ -1,0 +1,18 @@
+[submodule "School/programmeren3/Pdf"]
+	path = School/programmeren3/Pdf
+	url = git@github.com:lucvervoort/Pdf.git
+[submodule "School/programmeren3/BeerTest"]
+	path = School/programmeren3/BeerTest
+	url = git@github.com:lucvervoort/BeerTest.git
+[submodule "School/programmeren3/MusicStoreLab"]
+	path = School/programmeren3/MusicStoreLab
+	url = git@github.com:lucvervoort/MusicStoreLab.git
+[submodule "School/programmeren3/EventHandler"]
+	path = School/programmeren3/EventHandler
+	url = git@github.com:lucvervoort/EventHandler.git
+[submodule "School/programmeren3/Spikes"]
+	path = School/programmeren3/Spikes
+	url = git@github.com:lucvervoort/Spikes.git
+[submodule "School/programmeren3/exercises"]
+	path = School/programmeren3/exercises
+	url = git@github.com:lucvervoort/exercises.git
