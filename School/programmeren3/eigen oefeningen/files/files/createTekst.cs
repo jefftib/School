@@ -26,7 +26,7 @@ namespace files
             {
                 using (StreamReader sr = new StreamReader(fileName))
                 {
-                    string line = " ";
+                    string line = "";
                     while ((line = sr.ReadLine()) != null)
                     {
                         Console.WriteLine(line);
