@@ -1,0 +1,11 @@
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\bin\Debug\netcoreapp3.1\files.exe
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\bin\Debug\netcoreapp3.1\files.deps.json
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\bin\Debug\netcoreapp3.1\files.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\bin\Debug\netcoreapp3.1\files.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\bin\Debug\netcoreapp3.1\files.dll
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\bin\Debug\netcoreapp3.1\files.pdb
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\obj\Debug\netcoreapp3.1\files.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\obj\Debug\netcoreapp3.1\files.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\obj\Debug\netcoreapp3.1\files.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\obj\Debug\netcoreapp3.1\files.dll
+C:\Users\jeffr\Desktop\repos\school\programmeren3\eigen oefeningen\files\files\obj\Debug\netcoreapp3.1\files.pdb

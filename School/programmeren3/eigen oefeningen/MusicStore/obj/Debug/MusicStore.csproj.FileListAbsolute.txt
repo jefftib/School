@@ -1,0 +1,14 @@
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MusicStore.csprojAssemblyReference.cache
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MainWindow.g.cs
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\App.g.cs
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MusicStore_MarkupCompile.cache
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MusicStore_MarkupCompile.lref
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\bin\Debug\MusicStore.exe.config
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\bin\Debug\MusicStore.exe
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\bin\Debug\MusicStore.pdb
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MainWindow.baml
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MusicStore.g.resources
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MusicStore.Properties.Resources.resources
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MusicStore.csproj.GenerateResource.cache
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MusicStore.exe
+C:\Users\u2389\source\repos\MusicStore - Lab\MusicStore\obj\Debug\MusicStore.pdb

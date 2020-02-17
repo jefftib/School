@@ -1,0 +1,19 @@
+﻿<Window x:Class="MusicStore.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MusicStore"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="29,50,0,0" TextWrapping="Wrap" Text="Name:" VerticalAlignment="Top" RenderTransformOrigin="0.887,2.064"/>
+        <TextBox x:Name="TbCustomerName" HorizontalAlignment="Left" Height="23" Margin="76,49,0,0" TextWrapping="Wrap" Text="Jef" VerticalAlignment="Top" Width="413"/>
+        <Button x:Name="BtCall" Content="Call" HorizontalAlignment="Left" Margin="587,52,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="BtMail" Content="Mail" HorizontalAlignment="Left" Margin="674,51,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="BtTruckArrives" Content="Truck arrives" HorizontalAlignment="Left" Margin="29,376,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.008,0.284"/>
+        <Button x:Name="BtCompletedTasks" Content="View completed tasks" HorizontalAlignment="Left" Margin="616,376,0,0" VerticalAlignment="Top" Width="133"/>
+        <ListBox x:Name="LbCompletedTasks" HorizontalAlignment="Left" Height="231" Margin="29,111,0,0" VerticalAlignment="Top" Width="720"/>
+
+    </Grid>
+</Window>
