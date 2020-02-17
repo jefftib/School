@@ -13,11 +13,22 @@ namespace recursion
             }
             return val + PrintSom(min, val - 1);
         }
+
+        static int CountDigits(int n, int nrdigitis)
+        {
+            //stop creterium
+            if (n == 0)
+            {
+                return nrdigitis;
+            }
+            return CountDigits(n/10, ++nrdigitis);
+        }
+
         static void Main(string[] args)
         {
             Console.Write("Number to print");
             int val = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("the sum of the first natural nummer is", val, PrintSom(1,val));
+            Console.WriteLine(CountDigits(val, 0));
             Console.ReadKey();
         }
        

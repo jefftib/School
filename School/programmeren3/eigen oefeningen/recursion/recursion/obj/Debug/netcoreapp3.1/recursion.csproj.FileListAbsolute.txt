@@ -1,0 +1,11 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.deps.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\bin\Debug\netcoreapp3.1\recursion.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\recursion\recursion\obj\Debug\netcoreapp3.1\recursion.pdb
