@@ -4,12 +4,12 @@ using System.Text;
 
 namespace DinerEvents
 {
-    class BestelSysteem
+     public class BestelSysteem
     {
-        public event EventHandler<BestelEventArgs> _BestelEvent;
+        public event EventHandler<BestelEventArgs> BestelEvent;
         public void geefbestellingIn(BestelEventArgs args)
         {
-            _BestelEvent?.Invoke(this, args);
+            BestelEvent?.Invoke(this, args);
         }
            
     }

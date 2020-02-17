@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DinerEvents
 {
-    class BestelEventArgs
+   public class BestelEventArgs
     {
         public string klant;
         public string product;
