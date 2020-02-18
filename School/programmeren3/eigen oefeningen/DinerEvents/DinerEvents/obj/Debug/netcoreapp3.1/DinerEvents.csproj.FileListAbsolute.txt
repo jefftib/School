@@ -1,0 +1,11 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\bin\Debug\netcoreapp3.1\DinerEvents.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\bin\Debug\netcoreapp3.1\DinerEvents.deps.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\bin\Debug\netcoreapp3.1\DinerEvents.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\bin\Debug\netcoreapp3.1\DinerEvents.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\bin\Debug\netcoreapp3.1\DinerEvents.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\bin\Debug\netcoreapp3.1\DinerEvents.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\obj\Debug\netcoreapp3.1\DinerEvents.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\obj\Debug\netcoreapp3.1\DinerEvents.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\obj\Debug\netcoreapp3.1\DinerEvents.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\obj\Debug\netcoreapp3.1\DinerEvents.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\DinerEvents\DinerEvents\obj\Debug\netcoreapp3.1\DinerEvents.pdb
