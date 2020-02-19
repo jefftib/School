@@ -1,0 +1,11 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.deps.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\bin\Debug\netcoreapp3.1\Tuples.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Tuples\Tuples\obj\Debug\netcoreapp3.1\Tuples.pdb
