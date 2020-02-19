@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeffr\\Desktop\\repos\\school\\programmeren3\\eigen oefeningen\\files\\files\\files.csproj": {}
+    "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\eigen oefeningen\\files\\files\\files.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeffr\\Desktop\\repos\\school\\programmeren3\\eigen oefeningen\\files\\files\\files.csproj": {
+    "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\eigen oefeningen\\files\\files\\files.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeffr\\Desktop\\repos\\school\\programmeren3\\eigen oefeningen\\files\\files\\files.csproj",
+        "projectUniqueName": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\eigen oefeningen\\files\\files\\files.csproj",
         "projectName": "files",
-        "projectPath": "C:\\Users\\jeffr\\Desktop\\repos\\school\\programmeren3\\eigen oefeningen\\files\\files\\files.csproj",
+        "projectPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\eigen oefeningen\\files\\files\\files.csproj",
         "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeffr\\Desktop\\repos\\school\\programmeren3\\eigen oefeningen\\files\\files\\obj\\",
+        "outputPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\eigen oefeningen\\files\\files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config",
