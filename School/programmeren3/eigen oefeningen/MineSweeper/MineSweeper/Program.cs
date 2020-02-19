@@ -14,8 +14,8 @@ namespace MineSweeper
         static readonly Random _random = new Random();
         static readonly float _mineRatio = .1f;
         static readonly int _mineCount = (int)(_width * _height * _mineRatio);
-        static readonly (int value, bool visible)[,] _board;
-        static readonly (int Column, int Row) _position = (_width / 2, _height / 2);
+        static  (int value, bool visible)[,] _board;
+        static  (int Column, int Row) _position = (_width / 2, _height / 2);
         #endregion
         static void Main(string[] args)
         {
@@ -53,6 +53,44 @@ namespace MineSweeper
                 if (_board[tile.column, tile.row].value != _mine)
                 {
                     _board[tile.column, tile.row].value++;
+
+                    switch (_board[tile.column, tile.row].value)
+                    {
+                        case -1:
+                            Console.WriteLine("@");
+                            break;
+                        case 0:
+                            Console.WriteLine(" ");
+                            break;
+                        case 1:
+                            Console.WriteLine("1");
+                            break;
+                        case 2:
+                            Console.WriteLine("2");
+                            break;
+                        case 3:
+                            Console.WriteLine("3");
+                            break;
+                        case 4:
+                            Console.WriteLine("4");
+                            break;
+                        case 5:
+                            Console.WriteLine("5");
+                            break;
+                        case 6:
+                            Console.WriteLine("6");
+                            break;
+                        case 7:
+                            Console.WriteLine("7");
+                            break;
+                        case 8:
+                            Console.WriteLine("8");
+                            break;
+                        case 9:
+                            Console.WriteLine("9");
+                            break;
+
+                    }
                 }
         }
 
@@ -67,7 +105,7 @@ namespace MineSweeper
 
         private static bool IsConsoleResized()
         {
-            if (Console.WindowHeight != _height || Console.WindowWidth = _width)
+            if (Console.WindowHeight != _height || Console.WindowWidth == _width)
             {
                 Console.Clear();
                 /*Quit.(ExitState.Quit, "Console Resized: MineSweeper is closed.");*/
