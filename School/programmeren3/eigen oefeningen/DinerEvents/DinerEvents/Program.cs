@@ -7,19 +7,22 @@ namespace DinerEvents
         static void Main(string[] args)
         {
             BestellingsSysteem bestellingsSysteem = new BestellingsSysteem();
+            Bel bel = new Bel();
             Klant klant1  = new Klant("Tafel1");
             Klant klant2 = new Klant("Tafel2");
             /*Maak object BestellingsSysteem
                 • Ken object BestellingsSysteem toe aan ober object */
             Ober ober = new Ober("Jan")
             {
-               
-                BestellingsSysteem = bestellingsSysteem
+
+                BestellingsSysteem = bestellingsSysteem,
+                Bel = bel
             };
             Kok kok = new Kok("Marie")
             {
-                bestellingsSysteem = bestellingsSysteem
-               
+                bestellingsSysteem = bestellingsSysteem,
+                Bel = bel
+                
          
             };
             /*
@@ -27,7 +30,9 @@ namespace DinerEvents
                 • Klant 2: Bestel(ober, “Koffie”);
                 */
             klant1.Bestel(ober, "Hoegaarden");
-            klant2.Bestel(ober, "Koffie");           
+            klant2.Bestel(ober, "Koffie");
+
+            Console.ReadKey();
 
         }
     }
