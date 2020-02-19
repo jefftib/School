@@ -19,6 +19,7 @@ namespace DinerEvents
             Kok kok = new Kok("Marie")
             {
                 bestellingsSysteem = bestellingsSysteem
+               
          
             };
             /*

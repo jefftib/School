@@ -10,6 +10,7 @@ namespace DinerEvents
         public void Ring(BestelEventArgs args) 
         {
             RingEvent?.Invoke(this, args);
+            Console.WriteLine("Ring ring");
         }
     }
 }
