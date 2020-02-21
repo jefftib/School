@@ -1,0 +1,10 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\StreetTask.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\StreetTask.deps.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\StreetTask.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\StreetTask.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\StreetTask.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\StreetTask.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\obj\Debug\netcoreapp3.1\StreetTask.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\obj\Debug\netcoreapp3.1\StreetTask.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\obj\Debug\netcoreapp3.1\StreetTask.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\obj\Debug\netcoreapp3.1\StreetTask.pdb

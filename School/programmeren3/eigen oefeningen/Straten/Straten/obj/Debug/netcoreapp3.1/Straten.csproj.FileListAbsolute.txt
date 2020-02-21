@@ -1,0 +1,11 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\Straten.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\Straten.deps.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\Straten.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\Straten.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\Straten.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\bin\Debug\netcoreapp3.1\Straten.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\obj\Debug\netcoreapp3.1\Straten.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\obj\Debug\netcoreapp3.1\Straten.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\obj\Debug\netcoreapp3.1\Straten.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\obj\Debug\netcoreapp3.1\Straten.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\Straten\Straten\obj\Debug\netcoreapp3.1\Straten.pdb
