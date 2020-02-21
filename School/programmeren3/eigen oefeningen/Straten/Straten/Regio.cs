@@ -8,6 +8,6 @@ namespace Straten
     {
         public int Id;
         public string Naam;
-        public Land land;
+        public Land Land;
     }
 }

@@ -9,7 +9,7 @@ namespace Straten
         public int Id;
         public string Naam;
         public string TaalCode;
-        public List<Regio> Regios;
+        public SortedList<string,Regio> Regios;
 
     }
 }
