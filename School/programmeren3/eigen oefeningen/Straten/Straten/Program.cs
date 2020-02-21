@@ -35,8 +35,12 @@ namespace Straten
                     */
             }
 
-            Exporters.FileExporter fileExporter = new Exporters.FileExporter(land);
-            fileExporter.Export(gemeente);
+            //LATER
+
+         /*   Exporters.FileExporter fileExporter = new Exporters.FileExporter(land);
+            fileExporter.Export(gemeente);*/
+            
+            
             /*
             Exporters.ConsoleExporter consoleExporter = new Exporters.ConsoleExporter(land);
             consoleExporter.Export(gemeente);

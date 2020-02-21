@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.IO;
+using GenericParsing;
 
 namespace Straten
 {
@@ -13,8 +15,30 @@ namespace Straten
 
         public void Read()
         {
-           
+          
+
+            using GenericParser RegioReader = new GenericParser(Config.Path + "/" + Config.RegioNamen)
+            {
+                ColumnDelimiter = ';',
+                FirstRowHasHeader = true,
+                MaxBufferSize = 4096 // hiermee mag je spelen
+            };
+            while (RegioReader.Read())
+            {
+                int naamId = int.Parse(RegioReader[0].Trim());
+                RegioReader.Add(naamId,
+                    new Gemeente
+                    {
+                        NaamId = naamId,
+                        Id = int.Parse(RegioReader[1].Trim()),
+                        TaalCode = RegioReader[2].Trim(),
+                        Naam = RegioReader[3].Trim()
+                    });
+            }
+
         }
+        public void Persist() 
+        { }
         
 
 
