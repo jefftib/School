@@ -10,5 +10,6 @@ namespace Straten
         public string Naam;
         public Regio Regio;
         public SortedList<string, Straat> Straten;
+
     }
 }

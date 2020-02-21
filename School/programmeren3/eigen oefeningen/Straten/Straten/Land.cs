@@ -13,7 +13,7 @@ namespace Straten
 
         public void Read()
         {
-
+           
         }
         
 
