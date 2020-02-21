@@ -9,5 +9,6 @@ namespace Straten
         public int Id;
         public string Naam;
         public Regio Regio;
+        public SortedList<string, Straat> Straten;
     }
 }
