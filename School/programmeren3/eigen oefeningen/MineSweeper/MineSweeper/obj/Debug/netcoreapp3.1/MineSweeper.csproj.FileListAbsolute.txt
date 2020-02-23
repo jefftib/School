@@ -1,0 +1,11 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.deps.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\bin\Debug\netcoreapp3.1\MineSweeper.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\MineSweeper\MineSweeper\obj\Debug\netcoreapp3.1\MineSweeper.pdb
