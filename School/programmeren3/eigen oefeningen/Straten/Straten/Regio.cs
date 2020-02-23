@@ -8,7 +8,8 @@ namespace Straten
     {
         public int Id;
         public string Naam;
-        public Land Land;
+        public string TaalCode;
+        public int NaamId;
         public SortedList<string, Gemeente> Gemeeenten;
 
      

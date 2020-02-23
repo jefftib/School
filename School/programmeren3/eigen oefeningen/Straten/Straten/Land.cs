@@ -26,8 +26,9 @@ namespace Straten
             while (RegioReader.Read())
             {
                 int naamId = int.Parse(RegioReader[0].Trim());
+
                 RegioReader.Add(naamId,
-                    new Gemeente
+                    new Regio
                     {
                         NaamId = naamId,
                         Id = int.Parse(RegioReader[1].Trim()),
