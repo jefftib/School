@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MineSweeperRefact", "MineSweeperRefact\MineSweeperRefact.csproj", "{BCE97D30-47DE-4BFB-9FAB-41C2EEB2727F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE97D30-47DE-4BFB-9FAB-41C2EEB2727F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE97D30-47DE-4BFB-9FAB-41C2EEB2727F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE97D30-47DE-4BFB-9FAB-41C2EEB2727F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE97D30-47DE-4BFB-9FAB-41C2EEB2727F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25152710-0B28-47CF-969A-EE3D8CC1D55C}
+	EndGlobalSection
+EndGlobal

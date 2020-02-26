@@ -26,8 +26,8 @@ namespace MineSweeper
         {
             GenerateBoard();
              RenderBoard();
-            EventLoop();
-        }
+                EventLoop();
+            }
         private static IEnumerable<(int Column, int Row )> AdjacentTiles(int column, int row)
         {
             var AdjacentTiles = new List<(int Column, int Row)>();
@@ -116,7 +116,7 @@ namespace MineSweeper
                 }
             }
              Console.Write(stringBuilder.ToString());
-            //      
+                
 
 
         }

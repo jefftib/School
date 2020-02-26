@@ -11,7 +11,7 @@ namespace Straten
         public string TaalCode;
         public int NaamId;
         public SortedList<string, Gemeente> Gemeeenten;
-
+        public Land Land;
      
     }
 }

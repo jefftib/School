@@ -25,7 +25,7 @@ namespace Straten
             {
                 case 1:
                     land.Read();
-                    land.Persist();
+               /*     land.Persist();*/
                     break;
                     /*
                 default:
@@ -37,8 +37,8 @@ namespace Straten
 
             //LATER
 
-         /*   Exporters.FileExporter fileExporter = new Exporters.FileExporter(land);
-            fileExporter.Export(gemeente);*/
+           Exporters.FileExporter fileExporter = new Exporters.FileExporter(land);
+           /* fileExporter.Export(gemeente);*/
             
             
             /*

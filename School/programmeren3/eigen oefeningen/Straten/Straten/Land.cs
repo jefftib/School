@@ -6,18 +6,19 @@ using GenericParsing;
 
 namespace Straten
 {
-    class Land
+  public  class Land
     {
         public int Id;
         public string Naam;
         public string TaalCode;
-        public SortedList<string, Regio> Regios;
+        public SortedList<string, Regio> Regios = new SortedList<string, Regio>(); //new SortedList??
+
 
         public void Read()
         {
           
 
-            using GenericParser RegioReader = new GenericParser(Config.Path + "/" + Config.RegioNamen)
+            using GenericParser RegioReader = new GenericParser(Config.Path + "/" + Config.ProvincieInfo)
             {
                 ColumnDelimiter = ';',
                 FirstRowHasHeader = true,
@@ -26,15 +27,18 @@ namespace Straten
             while (RegioReader.Read())
             {
                 int naamId = int.Parse(RegioReader[0].Trim());
-
-                RegioReader.Add(naamId,
-                    new Regio
-                    {
-                        NaamId = naamId,
-                        Id = int.Parse(RegioReader[1].Trim()),
-                        TaalCode = RegioReader[2].Trim(),
-                        Naam = RegioReader[3].Trim()
-                    });
+                if (!Regios.ContainsKey(RegioReader[3]))
+                {
+                    Regios.Add(RegioReader[3].Trim(),
+              new Regio
+              {
+                  NaamId = naamId,
+                  Id = int.Parse(RegioReader[1].Trim()),
+                  TaalCode = RegioReader[2].Trim(),
+                  Naam = RegioReader[3].Trim()
+              });
+                }
+             
             }
 
         }
