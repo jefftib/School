@@ -19,3 +19,24 @@
 [submodule "School/programmeren3/Examples"]
 	path = School/programmeren3/Examples
 	url = https://github.com/lucvervoort/Examples.git
+[submodule "School/andere prof/SolutionFileIO"]
+	path = School/andere prof/SolutionFileIO
+	url = https://github.com/tvdewiel/SolutionFileIO.git
+[submodule "School/andere prof/WRdata"]
+	path = School/andere prof/WRdata
+	url = https://github.com/tvdewiel/WRdata.git
+[submodule "School/andere prof/SolutionCollections"]
+	path = School/andere prof/SolutionCollections
+	url = https://github.com/tvdewiel/SolutionCollections.git
+[submodule "School/andere prof/Events"]
+	path = School/andere prof/Events
+	url = https://github.com/tvdewiel/Events.git
+[submodule "School/andere prof/TutorialDoc"]
+	path = School/andere prof/TutorialDoc
+	url = https://github.com/tvdewiel/TutorialDoc.git
+[submodule "School/andere prof/RoadToLINQ"]
+	path = School/andere prof/RoadToLINQ
+	url = https://github.com/tvdewiel/RoadToLINQ.git
+[submodule "School/andere prof/SolutionIO"]
+	path = School/andere prof/SolutionIO
+	url = https://github.com/tvdewiel/SolutionIO.git
