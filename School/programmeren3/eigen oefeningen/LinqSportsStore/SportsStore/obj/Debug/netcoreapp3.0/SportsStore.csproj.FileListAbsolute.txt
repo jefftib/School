@@ -9,3 +9,14 @@ C:\Users\jeffr\Desktop\repos\School\programmeren3\exercises\LinqSportsStore\Spor
 C:\Users\jeffr\Desktop\repos\School\programmeren3\exercises\LinqSportsStore\SportsStore\obj\Debug\netcoreapp3.0\SportsStore.AssemblyInfo.cs
 C:\Users\jeffr\Desktop\repos\School\programmeren3\exercises\LinqSportsStore\SportsStore\obj\Debug\netcoreapp3.0\SportsStore.dll
 C:\Users\jeffr\Desktop\repos\School\programmeren3\exercises\LinqSportsStore\SportsStore\obj\Debug\netcoreapp3.0\SportsStore.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\bin\Debug\netcoreapp3.0\SportsStore.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\bin\Debug\netcoreapp3.0\SportsStore.deps.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\bin\Debug\netcoreapp3.0\SportsStore.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\bin\Debug\netcoreapp3.0\SportsStore.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\bin\Debug\netcoreapp3.0\SportsStore.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\bin\Debug\netcoreapp3.0\SportsStore.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\obj\Debug\netcoreapp3.0\SportsStore.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\obj\Debug\netcoreapp3.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\obj\Debug\netcoreapp3.0\SportsStore.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\obj\Debug\netcoreapp3.0\SportsStore.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren3\eigen oefeningen\LinqSportsStore\SportsStore\obj\Debug\netcoreapp3.0\SportsStore.pdb

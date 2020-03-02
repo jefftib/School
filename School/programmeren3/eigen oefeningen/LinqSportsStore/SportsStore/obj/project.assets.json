@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\exercises\\LinqSportsStore\\SportsStore\\SportsStore.csproj",
+      "projectUniqueName": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\eigen oefeningen\\LinqSportsStore\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
-      "projectPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\exercises\\LinqSportsStore\\SportsStore\\SportsStore.csproj",
+      "projectPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\eigen oefeningen\\LinqSportsStore\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\exercises\\LinqSportsStore\\SportsStore\\obj\\",
+      "outputPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren3\\eigen oefeningen\\LinqSportsStore\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config",
