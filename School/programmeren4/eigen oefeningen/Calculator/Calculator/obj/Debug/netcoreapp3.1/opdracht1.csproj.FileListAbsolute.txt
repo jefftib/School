@@ -1,0 +1,10 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\bin\Debug\netcoreapp3.1\opdracht1.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\bin\Debug\netcoreapp3.1\opdracht1.deps.json
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\bin\Debug\netcoreapp3.1\opdracht1.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\bin\Debug\netcoreapp3.1\opdracht1.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\bin\Debug\netcoreapp3.1\opdracht1.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\bin\Debug\netcoreapp3.1\opdracht1.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\obj\Debug\netcoreapp3.1\opdracht1.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\obj\Debug\netcoreapp3.1\opdracht1.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\obj\Debug\netcoreapp3.1\opdracht1.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\obj\Debug\netcoreapp3.1\opdracht1.pdb

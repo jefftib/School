@@ -1,0 +1,11 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\bin\Debug\netcoreapp3.1\les1.exe
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\bin\Debug\netcoreapp3.1\les1.deps.json
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\bin\Debug\netcoreapp3.1\les1.runtimeconfig.json
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\bin\Debug\netcoreapp3.1\les1.runtimeconfig.dev.json
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\bin\Debug\netcoreapp3.1\les1.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\bin\Debug\netcoreapp3.1\les1.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\obj\Debug\netcoreapp3.1\les1.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\obj\Debug\netcoreapp3.1\les1.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\obj\Debug\netcoreapp3.1\les1.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\obj\Debug\netcoreapp3.1\les1.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren4\LesCode\les1\les1\obj\Debug\netcoreapp3.1\les1.pdb
