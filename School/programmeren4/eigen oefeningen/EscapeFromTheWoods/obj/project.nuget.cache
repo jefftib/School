@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUyv4VO7AL/yOsjZFTi0ixU0In80AFozPI0GOOQaeqz/cb7WDjk5wD8OKd5TIWraLUIkZg/FzolMP38psGm+TA==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\robin\\Downloads\\EscapeFromTheWoods\\EscapeFromTheWoods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\robin\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

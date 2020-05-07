@@ -1,0 +1,5 @@
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.deps.json
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.dll
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.csprojAssemblyReference.cache
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.AssemblyInfoInputs.cache
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.AssemblyInfo.cs

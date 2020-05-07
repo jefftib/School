@@ -1,0 +1,8 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\UnitTestingExampleAssignment\UnitTestingExample\bin\Debug\UnitTestingExample.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\UnitTestingExampleAssignment\UnitTestingExample\bin\Debug\UnitTestingExample.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\UnitTestingExampleAssignment\UnitTestingExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\UnitTestingExampleAssignment\UnitTestingExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\UnitTestingExampleAssignment\UnitTestingExample\obj\Debug\UnitTestingExample.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\UnitTestingExampleAssignment\UnitTestingExample\obj\Debug\UnitTestingExample.csproj.CopyComplete
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\UnitTestingExampleAssignment\UnitTestingExample\obj\Debug\UnitTestingExample.dll
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\UnitTestingExampleAssignment\UnitTestingExample\obj\Debug\UnitTestingExample.pdb
