@@ -19,3 +19,4 @@ D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\runtimes\win\l
 D:\Users\jeffr\Desktop\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.csproj.CopyComplete
 D:\Users\jeffr\Desktop\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.dll
 D:\Users\jeffr\Desktop\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.pdb
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\EscapeFromTheWoods.dll.config

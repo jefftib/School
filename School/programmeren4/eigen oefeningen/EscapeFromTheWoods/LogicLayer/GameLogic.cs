@@ -1,6 +1,5 @@
 ﻿using System;
 using EscapeFromTheWoods;
-using System.Collections.Generic;
 
 
 namespace LogicLayer
@@ -17,57 +16,58 @@ namespace LogicLayer
         ///
         /// <todo>
         /// - PlayGames (many)
-        /// - PlayGame (single)
         /// </todo>
         /// 
-        /// Potentiele game structuur:
-        /// PlayGame(){
-        ///     BuildForest(params=> treeAmount, monkeyAmount)
-        ///     GenerateTrees(params=> treeAmount)
-        ///     GenerateMonkeys(params=> monkeyAmount)
-        ///     foreach (Monkey m in Forest.Trees)
-        ///          while (m.Tree != null)
-        ///             m.Jump();
-        ///     LOG.SaveTextLogs()
-        ///     LOG.SaveBitmapImage()
-        /// }
         /// 
 
             public static int width;
             public static int height;
             public static int trees;
-            public static int monkeys; 
-        public static  void info() 
+            public static int monkeys;
+            public static int forests;
+           
+         static  LoggingLogic logging = new LoggingLogic();
+        public static void info()
         {
-            Console.WriteLine("hoe breed is het bos");
-         width = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Hoeveel bossen moeten er gemaakt worden");
+            forests = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
 
-            Console.WriteLine("hoe hoog is het bos");
-            height = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine();
+            for (int i = 0; i < forests; i++)
+            {
+                Console.WriteLine($"hoe breed is het bos {i+1} ");
+                width = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
 
-            Console.WriteLine("hoeveel bomen zijn er in het bos");
-            trees = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine();
+                Console.WriteLine($"hoe hoog is het bos {i + 1} ");
+                height = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
 
-            Console.WriteLine("hoeveel apen zijn er in het bos");
-            monkeys = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine();
+                Console.WriteLine($"hoeveel bomen zijn er in het bos {i + 1}");
+                trees = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
 
+                Console.WriteLine($"hoeveel apen zijn er in het bos {i + 1}");
+                monkeys = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine();
+            }
         }
         
         public static void PlayGame() 
         {
             info();
-            Forest forest = Forest.BuildForest(width, height, trees, monkeys);
-            forest.GenerateTrees();
-            forest.PlaceMonkey();
-            foreach (Monkey m in forest.Monkeylist) 
+            for (int i = 0; i < forests; i++)
             {
-                while(m.tree != null)
+                Forest forest = Forest.BuildForest(i, width, height, trees, monkeys);
+                forest.GenerateTrees();
+                forest.PlaceMonkey();
+                foreach (Monkey m in forest.Monkeylist)
                 {
-                    m.jump(forest);
+                    while (m.tree != null)
+                    {
+                        m.jump(forest);
+                    }
+                    logging.save(forest.image, forest);
                 }
             }
         }

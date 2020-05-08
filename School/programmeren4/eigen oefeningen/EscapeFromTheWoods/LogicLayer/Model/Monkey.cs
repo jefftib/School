@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using LogicLayer;
+
 
 namespace EscapeFromTheWoods
 {
@@ -9,10 +11,10 @@ namespace EscapeFromTheWoods
     {
         #region attributes
         int id { get; set; }
-        string naam { get; set; }
+     public   string naam { get; set; }
      public Tree tree;
-        List<Tree> VisitedTrees = new List<Tree>();
-
+      public  List<Tree> VisitedTrees = new List<Tree>();
+        LoggingLogic logging = new LoggingLogic();
         #endregion
 
         #region methods
@@ -37,16 +39,20 @@ namespace EscapeFromTheWoods
             if (dtb < distanceToClosestTree)
             {
                 // Monkey left forest
-                Console.WriteLine("monkey left");
-               setTree(this.tree = null);
-                // TODO: LOG deze move
+                
+                Console.WriteLine(this.naam + " has left the forest");
+                this.setTree(this.tree = null);
+                logging.TextLogs(this, forest);
             }
             else
             {
                 // Monkey Jumps function here
-                Console.WriteLine("monkey jumps");
+                Console.WriteLine(this.naam + " jumps to boom "  + this.tree.id + " at(" + this.tree.x +"," + this.tree.y +")" );
+             
+                logging.DrawPath(forest.image, this.tree, this.GetClosestTree(forest)); ;
                 this.setTree(this.GetClosestTree(forest));
-                // TODO: LOG deze move
+                this.VisitedTrees.Add(this.tree);
+                logging.TextLogs(this, forest);
             }
         }
         public Tree GetClosestTree(Forest forest)
@@ -55,7 +61,7 @@ namespace EscapeFromTheWoods
             double closestDistance = forest.maxWidth; // afstand gelijk met breedte van bos
             foreach (Tree t in forest.treelist)
             {
-                if (distanceToTree(t, this.tree) > closestDistance && t != this.tree && !this.VisitedTrees.Contains(t))
+                if (distanceToTree(t, this.tree) < closestDistance && t != this.tree && !this.VisitedTrees.Contains(t))
                 {
                     closestTree = t; // als deze boom dichter is dan closestDistance, en niet de huidige monkey-boom is en niet een vorige boom is van monkey
                     closestDistance = distanceToTree(t, this.tree); // stellen we deze in als dichtste boom
@@ -66,7 +72,7 @@ namespace EscapeFromTheWoods
 
         public static double distanceToTree(Tree treeFrom, Tree treeTo) 
         {
-            return Math.Sqrt(Math.Pow(treeFrom.x - treeFrom.x, 2) + Math.Pow(treeTo.y - treeTo.y, 2));
+            return Math.Sqrt(Math.Pow(treeFrom.x - treeTo.x, 2) + Math.Pow(treeFrom.y - treeTo.y, 2));
         }
 
         public static double distanceToBorder(Forest f, Tree t)

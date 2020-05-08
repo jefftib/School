@@ -1,35 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
-using System.Text;
 using System.Linq;
-
+using LogicLayer;
 
 namespace EscapeFromTheWoods
 {
-    public class Forest
+   public  class Forest
     {
-        private int Id; // wordt vervangen door DB-call naar laatste ID
-        public int maxWidth { get; set; } // gebaseerd op aantal bomen in bos
-        public int maxHeight { get; set; } // idem
-        public int TreesInforest = 100; // wordt variabel
-        public int monkeys = 3; // wordt variabel
+        public int Id; // wordt vervangen door DB-call naar laatste ID
+        public int maxWidth { get; set; } 
+        public int maxHeight { get; set; } 
+        public int TreesInforest = 0; 
+        public int monkeys = 0;
         private Random _random = new Random();
         public List<Tree> treelist = new List<Tree>();
         public List<Monkey> Monkeylist = new List<Monkey>();
-
-        private Forest(int maxWidth, int maxHeight, int trees, int monkeys)
+        LoggingLogic logging = new LoggingLogic();
+        public Bitmap image = null;
+        private Forest(int id, int maxWidth, int maxHeight, int trees, int monkeys)
         {
-
+            this.Id = id;
             this.maxWidth = maxWidth;
             this.maxHeight = maxHeight;
             this.TreesInforest = trees;
             this.monkeys = monkeys;
         }
 
-        public static Forest BuildForest(int maxWidth, int maxHeight, int trees, int monkeys)
+        public static Forest BuildForest(int id , int maxWidth, int maxHeight, int trees, int monkeys)
         {
-            Forest forest = new Forest(maxWidth, maxHeight, trees, monkeys);
+            Forest forest = new Forest(id, maxWidth, maxHeight, trees, monkeys);
             return forest;
         }
 
@@ -45,32 +45,36 @@ namespace EscapeFromTheWoods
                 else
                 {
                     treelist.Add(t);
+
                 }
-
+             this.image =  logging.CreateImage(this);
             }
-
         }
 
         public void PlaceMonkey()
         {
             for (int i = 0; i < monkeys; i++)
             {
-                for (int i2 = 0; i2 < treelist.Count; i2++)
-                {
                     int RandomTree = _random.Next(treelist.Count);
-                    Monkey m = new Monkey(1, "Brian", treelist[RandomTree]); // MonkeyID komt later van de DB
+                    string name = Config.monkeyNames.ElementAt(_random.Next(Config.monkeyNames.Count));
+                    Monkey m = new Monkey(1, name, treelist[RandomTree]); // MonkeyID komt later van de DB
                     var emptyTree = treelist.Where(x => x.occupied == false);
                     if (emptyTree.Contains(treelist[RandomTree]))
                     {
                         m.setTree(treelist[RandomTree]);
                         _ = treelist[RandomTree].occupied == true;
                         Monkeylist.Add(m);
+                         m.VisitedTrees.Add(m.tree);
+                        for (int i2 = 0; i2 < Monkeylist.Count; i2++)
+                        {
+                            logging.DrawMonkey(image,m);
+                        } 
                     }
                     else
                     {
                         i--;
                     }
-                }
+         
             }
 
         }
