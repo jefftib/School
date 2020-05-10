@@ -1,4 +1,7 @@
-﻿using System.Drawing;
+﻿using System;
+using System.Threading.Tasks;
+using System.Threading;
+using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
 using EscapeFromTheWoods;
@@ -6,15 +9,8 @@ using DataLayer.Mmodel;
 using DataLayer;
 namespace LogicLayer
 {
-    class LoggingLogic
+  public  class LoggingLogic
     {
-        ///
-        /// <summary>
-        /// Deze klasse is verantwoordelijk voor alles te loggen
-        /// TextLogs, SaveBitmap, ActionLogToDB, WoodsLogToDB, MonkeyLogToDB, etc...
-        /// </summary>
-        /// 
-
         public  Bitmap CreateImage(Forest f) 
         {
 
@@ -25,7 +21,6 @@ namespace LogicLayer
             {
                 g.DrawEllipse(p, tree.x * Config.drawingFactor, tree.y * Config.drawingFactor, Config.drawingFactor, Config.drawingFactor);
             }
-           
                 return bm;
         }
         public void DrawMonkey(Bitmap bm,Monkey monkey)
@@ -51,11 +46,13 @@ namespace LogicLayer
             {
                 if (m.tree != null)
                 {
+                    Console.WriteLine(m.naam + " jumps to tree " + m.tree.id + " at(" + m.tree.x + "," + m.tree.y + ") bos"  + f.Id);
                     sw.WriteLine(m.naam + " jumps to tree " + m.tree.id + " at(" + m.tree.x + "," + m.tree.y + ")");
                     this.MakeTxtLog(f, m, m.naam + " jumps to tree " + m.tree.id + " at(" + m.tree.x + "," + m.tree.y + ")");
 
                 }
                 else {
+                    Console.WriteLine(m.naam + " has left the forest" + f.Id);
                     sw.WriteLine(m.naam + " has left the forest");
                     this.MakeTxtLog(f, m, m.naam + " has left the forest");
 
@@ -66,39 +63,30 @@ namespace LogicLayer
 
         }
 
-        ///
-        /// <todo>
-        /// - methode(s) voor:
-        ///     - Save action logs to db => wordt async
-        ///     - Save woods logs to db => wordt async
-        ///     - Save monkey logs to db => wordt async
-        /// </todo>
-        /// 
-
       public void MakeForestLog(Forest f, Tree t)
         {
 
             ForestLog flog = new ForestLog(f.Id, t.id, t.x, t.y);
             dbFunctions dbFunctions = new dbFunctions();
 
-            dbFunctions.addForest(flog);
+           Task.Run(()=>dbFunctions.addForest(flog));
            
         }
     public void MakeMonkeyLog(Forest f, Tree t , Monkey m)
         {
             Monkeylog mlog = new Monkeylog(m.id, m.naam,f.Id, m.CountJumps(), t.id, t.x, t.y);
             dbFunctions dbFunctions = new dbFunctions();
-            dbFunctions.addMonkey(mlog);
+          Task.Run(()=>dbFunctions.addMonkey(mlog));
         }
 
         public void MakeTxtLog(Forest f, Monkey m, string message)
         {
             txtLog tlog = new txtLog(f.Id, m.id, message);
             dbFunctions dbFunctions = new dbFunctions();
-            dbFunctions.addTxtLog(tlog);
+          Task.Run(()=>dbFunctions.addTxtLog(tlog));
 
         }
 
 
-}
+    }
 }

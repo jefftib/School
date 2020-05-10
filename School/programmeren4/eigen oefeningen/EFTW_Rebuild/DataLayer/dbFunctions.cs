@@ -5,6 +5,7 @@ namespace DataLayer
 {
     public class dbFunctions
     {
+      
         public void addForest(ForestLog f)
         {
             using (var context = new MyDBContext())

@@ -1,0 +1,32 @@
+Moe jumps to tree 44 at(91,58)
+Tod jumps to tree 27 at(88,79)
+Ned jumps to tree 52 at(51,30)
+Ned jumps to tree 24 at(24,69)
+Milhouse jumps to tree 45 at(54,70)
+Bart has left the forest
+Milhouse jumps to tree 57 at(89,28)
+Maggie jumps to tree 48 at(56,6)
+Marge jumps to tree 92 at(90,7)
+Edna jumps to tree 97 at(84,82)
+Moe jumps to tree 91 at(36,88)
+Milhouse has left the forest
+Moe jumps to tree 93 at(85,61)
+Tod jumps to tree 97 at(84,82)
+Ned jumps to tree 90 at(50,31)
+Ned jumps to tree 35 at(17,76)
+Milhouse jumps to tree 26 at(55,64)
+Milhouse jumps to tree 81 at(95,30)
+Maggie has left the forest
+Marge has left the forest
+Edna jumps to tree 27 at(88,79)
+Moe jumps to tree 77 at(34,92)
+Ned jumps to tree 13 at(46,30)
+Ned jumps to tree 65 at(24,84)
+Milhouse jumps to tree 69 at(38,60)
+Milhouse jumps to tree 76 at(98,34)
+Edna jumps to tree 16 at(90,79)
+Moe jumps to tree 31 at(30,98)
+Milhouse has left the forest
+Edna jumps to tree 38 at(91,85)
+Moe has left the forest
+Edna jumps to tree 42 at(91,87)

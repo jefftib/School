@@ -1,0 +1,20 @@
+Marge jumps to tree 71 at(71,73)
+Tod has left the forest
+Homer jumps to tree 42 at(54,15)
+Maggie jumps to tree 1 at(37,83)
+Tod jumps to tree 77 at(69,46)
+Marge jumps to tree 35 at(65,75)
+Homer jumps to tree 18 at(53,14)
+Maggie jumps to tree 97 at(38,84)
+Tod jumps to tree 96 at(76,50)
+Homer jumps to tree 23 at(51,8)
+Maggie jumps to tree 99 at(36,87)
+Tod jumps to tree 6 at(89,51)
+Homer jumps to tree 9 at(53,7)
+Maggie jumps to tree 64 at(38,94)
+Tod jumps to tree 0 at(92,53)
+Homer jumps to tree 4 at(55,2)
+Maggie has left the forest
+Tod jumps to tree 53 at(94,55)
+Homer has left the forest
+Tod has left the forest

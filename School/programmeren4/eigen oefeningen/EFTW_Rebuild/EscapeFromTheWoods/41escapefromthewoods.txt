@@ -1,0 +1,31 @@
+Maggie has left the forest
+Nelson jumps to tree 41 at(17,95)
+Moe jumps to tree 13 at(69,78)
+Moe jumps to tree 30 at(38,1)
+Marge jumps to tree 71 at(16,16)
+Maggie jumps to tree 6 at(83,60)
+Marge has left the forest
+Nelson jumps to tree 54 at(55,89)
+Nelson jumps to tree 70 at(22,93)
+Ned has left the forest
+Tod jumps to tree 82 at(24,53)
+Edna jumps to tree 68 at(85,20)
+Nelson jumps to tree 55 at(15,91)
+Moe jumps to tree 43 at(72,71)
+Moe has left the forest
+Marge jumps to tree 60 at(16,6)
+Maggie jumps to tree 1 at(86,56)
+Nelson jumps to tree 46 at(52,91)
+Nelson jumps to tree 41 at(17,95)
+Tod jumps to tree 15 at(20,51)
+Edna jumps to tree 88 at(90,22)
+Marge has left the forest
+Maggie jumps to tree 25 at(91,55)
+Nelson has left the forest
+Nelson jumps to tree 55 at(15,91)
+Tod jumps to tree 83 at(21,48)
+Edna jumps to tree 63 at(99,20)
+Nelson jumps to tree 98 at(9,97)
+Tod jumps to tree 62 at(20,55)
+Edna has left the forest
+Tod jumps to tree 42 at(11,65)

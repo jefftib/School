@@ -8,11 +8,12 @@ namespace EscapeFromTheWoods
 {
    public  class Forest
     {
-        public int Id; // wordt vervangen door DB-call naar laatste ID
+        public int Id;
         public int maxWidth { get; set; } 
         public int maxHeight { get; set; } 
         public int TreesInforest = 0; 
         public int monkeys = 0;
+        public int monkeyId { get; set; } = DataLayer.dbFunctions.GetMonkey();
         private Random _random = new Random();
         public List<Tree> treelist = new List<Tree>();
         public List<Monkey> Monkeylist = new List<Monkey>();
@@ -37,7 +38,7 @@ namespace EscapeFromTheWoods
         {
             for (int i = 0; i < TreesInforest; i++)
             {
-                Tree t = new Tree(DataLayer.dbFunctions.GetTree()+1, _random.Next(0, maxWidth), _random.Next(0, maxHeight));
+                Tree t = new Tree(i, _random.Next(0, maxWidth), _random.Next(0, maxHeight));
                 if (treelist.Contains(t))
                 {
                     i--;
@@ -58,7 +59,7 @@ namespace EscapeFromTheWoods
             {
                     int RandomTree = _random.Next(treelist.Count);
                     string name = Config.monkeyNames.ElementAt(_random.Next(Config.monkeyNames.Count));
-                    Monkey m = new Monkey(DataLayer.dbFunctions.GetMonkey()+1, name, treelist[RandomTree]); // MonkeyID komt later van de DB
+                    Monkey m = new Monkey(monkeyId++, name, treelist[RandomTree]); 
                     var emptyTree = treelist.Where(x => x.occupied == false);
                     if (emptyTree.Contains(treelist[RandomTree]))
                     {
@@ -68,7 +69,7 @@ namespace EscapeFromTheWoods
                          m.VisitedTrees.Add(m.tree);
                         for (int i2 = 0; i2 < Monkeylist.Count; i2++)
                         {
-                            logging.DrawMonkey(image,m);
+                        logging.DrawMonkey(image,m);
                         logging.MakeMonkeyLog(this, m.tree, m); 
                         } 
                     }

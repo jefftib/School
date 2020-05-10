@@ -1,0 +1,21 @@
+Maggie jumps to tree 34 at(75,91)
+Edna jumps to tree 74 at(89,89)
+Ned has left the forest
+Marge jumps to tree 83 at(20,47)
+Marge jumps to tree 59 at(63,36)
+Maggie jumps to tree 17 at(72,87)
+Edna jumps to tree 20 at(93,95)
+Marge jumps to tree 16 at(27,51)
+Marge jumps to tree 42 at(68,33)
+Edna has left the forest
+Marge jumps to tree 99 at(29,47)
+Marge jumps to tree 72 at(77,34)
+Marge jumps to tree 60 at(28,44)
+Marge jumps to tree 79 at(86,39)
+Marge jumps to tree 35 at(33,49)
+Marge jumps to tree 30 at(91,39)
+Marge jumps to tree 69 at(33,53)
+Marge jumps to tree 0 at(92,41)
+Marge jumps to tree 49 at(36,56)
+Marge has left the forest
+Marge jumps to tree 73 at(47,58)

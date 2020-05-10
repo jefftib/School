@@ -1,21 +1,24 @@
-﻿using LogicLayer;
+﻿using System.Threading.Tasks;
+using System.Collections.Generic;
+using System;
+using LogicLayer;
 
 namespace EscapeFromTheWoods
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            GameLogic.PlayGame();
-            /*
-       
-             * TODO: implement async/treading <= hou da maar voor t laatste
-             * 
-
-             * Async gaat ge maar op 4 plaatsen moeten gebruiken in mijn ogen:
-             * => Elke game dat er runt kan in een aparte Thread, dus elke game draait async
-             * => SaveLogsToDB gaat ook in async, aangezien we niet hoeven te wachten op respons van de DB
-             */
+            List<Task> TaskList = new List<Task>();
+            GameLogic glogic = new GameLogic();
+            glogic.info();
+             while(glogic.gamesplayed != glogic.forests)
+             {
+                 glogic.PlayGame();
+                TaskList.Add(glogic.PlayGame());
+                glogic.gamesplayed++;
+             }
+            await Task.WhenAll(TaskList);
         }
     }
 }

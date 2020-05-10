@@ -1,0 +1,37 @@
+Maggie jumps to tree 66 at(28,5)
+Tod jumps to tree 13 at(9,71)
+Bart jumps to tree 26 at(93,3)
+Moe jumps to tree 45 at(57,49)
+Nelson jumps to tree 62 at(32,35)
+Nelson jumps to tree 57 at(69,77)
+Ned jumps to tree 59 at(54,46)
+Nelson jumps to tree 92 at(15,34)
+Milhouse jumps to tree 82 at(31,34)
+Moe jumps to tree 37 at(4,13)
+Marge jumps to tree 98 at(45,9)
+Ned jumps to tree 72 at(93,57)
+Maggie has left the forest
+Tod has left the forest
+Bart has left the forest
+Moe jumps to tree 44 at(49,52)
+Nelson jumps to tree 7 at(31,39)
+Nelson jumps to tree 95 at(68,79)
+Ned jumps to tree 44 at(49,52)
+Nelson jumps to tree 4 at(10,32)
+Milhouse jumps to tree 7 at(31,39)
+Moe has left the forest
+Marge has left the forest
+Ned jumps to tree 48 at(94,53)
+Moe jumps to tree 73 at(43,47)
+Nelson jumps to tree 12 at(26,33)
+Nelson jumps to tree 11 at(65,76)
+Ned jumps to tree 73 at(43,47)
+Nelson has left the forest
+Milhouse jumps to tree 12 at(26,33)
+Ned jumps to tree 51 at(92,53)
+Nelson jumps to tree 53 at(60,75)
+Ned jumps to tree 29 at(47,37)
+Milhouse jumps to tree 87 at(25,32)
+Ned jumps to tree 54 at(98,50)
+Milhouse jumps to tree 70 at(20,38)
+Ned has left the forest

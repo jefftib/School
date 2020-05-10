@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 using System.Collections.Generic;
 using EscapeFromTheWoods;
 
@@ -12,14 +13,16 @@ namespace LogicLayer
         /// Deze klasse is verantwoordelijk voor het uitvoeren van elke Game
         /// </summary>
         /// 
-            public static int width;
-            public static int height;
-            public static int trees;
-            public static int monkeys;
-            public static int forests;
+            public int forestId { get; set; } = DataLayer.dbFunctions.GetForest();
+            public int gamesplayed = 0;
+            public  int width;
+            public  int height;
+            public  int trees;
+            public  int monkeys;
+            public  int forests;
            
-         static  LoggingLogic logging = new LoggingLogic();
-        public static void info()
+           LoggingLogic logging = new LoggingLogic();
+        public void info()
         {
                 Console.WriteLine("Hoeveel bossen moeten er gemaakt worden");
                 forests = Convert.ToInt32(Console.ReadLine());
@@ -43,12 +46,10 @@ namespace LogicLayer
             
         }
         
-        public static void PlayGame() 
+        public async Task PlayGame() 
         {
-            info();
-            for (int i = 0; i < forests; i++)
             {
-                Forest forest = Forest.BuildForest(DataLayer.dbFunctions.GetForest()+1, width, height, trees, monkeys);
+                Forest forest = Forest.BuildForest(forestId++, width, height, trees, monkeys);
                 List<Monkey> monkeysNotDone = new List<Monkey>();
                 
                 forest.GenerateTrees();
@@ -61,16 +62,16 @@ namespace LogicLayer
                      {
                         if(m.tree != null) 
                         {
-                            m.jump(forest);
-                            logging.save(forest.image, forest);
+                            m.jump(forest);  
                         }
                         else
                         {
                             ToRemove.Add(m);
                         }
                      }
+                   await Task.Run((() => logging.save(forest.image, forest)));
                     monkeysNotDone.RemoveRange(0, ToRemove.Count) ;
-                }
+                 }
             }
         }
     }

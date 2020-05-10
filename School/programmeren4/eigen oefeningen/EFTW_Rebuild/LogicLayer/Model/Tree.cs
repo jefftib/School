@@ -16,7 +16,7 @@ namespace EscapeFromTheWoods
             this.y = y;
         }
 
-        public override bool Equals(object obj) // deze vergelijkt ENKEL X en Y
+        public override bool Equals(object obj)
         {
             return obj is Tree tree &&
                    x == tree.x &&
