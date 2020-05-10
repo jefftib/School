@@ -37,7 +37,7 @@ namespace EscapeFromTheWoods
         {
             for (int i = 0; i < TreesInforest; i++)
             {
-                Tree t = new Tree(DataLayer.dbFunctions.GetTree(), _random.Next(0, maxWidth), _random.Next(0, maxHeight));
+                Tree t = new Tree(DataLayer.dbFunctions.GetTree()+1, _random.Next(0, maxWidth), _random.Next(0, maxHeight));
                 if (treelist.Contains(t))
                 {
                     i--;
@@ -45,6 +45,7 @@ namespace EscapeFromTheWoods
                 else
                 {
                     treelist.Add(t);
+                    logging.MakeForestLog(this, t);
 
                 }
              this.image =  logging.CreateImage(this);
@@ -57,7 +58,7 @@ namespace EscapeFromTheWoods
             {
                     int RandomTree = _random.Next(treelist.Count);
                     string name = Config.monkeyNames.ElementAt(_random.Next(Config.monkeyNames.Count));
-                    Monkey m = new Monkey(DataLayer.dbFunctions.GetMonkey(), name, treelist[RandomTree]); // MonkeyID komt later van de DB
+                    Monkey m = new Monkey(DataLayer.dbFunctions.GetMonkey()+1, name, treelist[RandomTree]); // MonkeyID komt later van de DB
                     var emptyTree = treelist.Where(x => x.occupied == false);
                     if (emptyTree.Contains(treelist[RandomTree]))
                     {
@@ -68,6 +69,7 @@ namespace EscapeFromTheWoods
                         for (int i2 = 0; i2 < Monkeylist.Count; i2++)
                         {
                             logging.DrawMonkey(image,m);
+                        logging.MakeMonkeyLog(this, m.tree, m); 
                         } 
                     }
                     else

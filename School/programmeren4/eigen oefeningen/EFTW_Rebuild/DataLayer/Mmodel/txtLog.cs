@@ -18,5 +18,6 @@ namespace DataLayer.Mmodel
             this.MonkeyId = MonkeyId;
             this.Message = message;
         }
+        public txtLog() { }
     }
 }

@@ -48,7 +48,7 @@ namespace LogicLayer
             info();
             for (int i = 0; i < forests; i++)
             {
-                Forest forest = Forest.BuildForest(DataLayer.dbFunctions.GetForest(), width, height, trees, monkeys);
+                Forest forest = Forest.BuildForest(DataLayer.dbFunctions.GetForest()+1, width, height, trees, monkeys);
                 List<Monkey> monkeysNotDone = new List<Monkey>();
                 
                 forest.GenerateTrees();

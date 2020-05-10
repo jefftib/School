@@ -5863,11 +5863,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\EscapeFromTheWoods\\EscapeFromTheWoods.csproj",
+      "projectUniqueName": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\EscapeFromTheWoods\\EscapeFromTheWoods.csproj",
       "projectName": "EscapeFromTheWoods",
-      "projectPath": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\EscapeFromTheWoods\\EscapeFromTheWoods.csproj",
+      "projectPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\EscapeFromTheWoods\\EscapeFromTheWoods.csproj",
       "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\EscapeFromTheWoods\\obj\\",
+      "outputPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\EscapeFromTheWoods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5883,8 +5883,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\LogicLayer\\LogicLayer.csproj": {
-              "projectPath": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\LogicLayer\\LogicLayer.csproj"
+            "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\LogicLayer\\LogicLayer.csproj": {
+              "projectPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\LogicLayer\\LogicLayer.csproj"
             }
           }
         }

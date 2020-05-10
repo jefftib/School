@@ -86,7 +86,7 @@ namespace LogicLayer
         }
     public void MakeMonkeyLog(Forest f, Tree t , Monkey m)
         {
-            Monkeylog mlog = new Monkeylog(m.naam,f.Id, m.CountJumps(), t.id, t.x, t.y);
+            Monkeylog mlog = new Monkeylog(m.id, m.naam,f.Id, m.CountJumps(), t.id, t.x, t.y);
             dbFunctions dbFunctions = new dbFunctions();
             dbFunctions.addMonkey(mlog);
         }

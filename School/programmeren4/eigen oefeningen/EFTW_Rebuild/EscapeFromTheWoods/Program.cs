@@ -8,9 +8,7 @@ namespace EscapeFromTheWoods
         {
             GameLogic.PlayGame();
             /*
-             * TODO: unieke forest en monkey id
-             * TODO: implement database
-             * TODO: save to db
+       
              * TODO: implement async/treading <= hou da maar voor t laatste
              * 
 

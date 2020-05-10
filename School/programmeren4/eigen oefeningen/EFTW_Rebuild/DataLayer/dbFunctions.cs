@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using DataLayer.Mmodel;
+﻿using DataLayer.Mmodel;
 using System.Linq;
 
 namespace DataLayer
@@ -12,7 +9,7 @@ namespace DataLayer
         {
             using (var context = new MyDBContext())
             {
-                context.forestlogs.Add(f);
+                context.ForestLogs.Add(f);
                 context.SaveChanges();
             }
         }
@@ -20,7 +17,7 @@ namespace DataLayer
         {
             using (var context = new MyDBContext())
             {
-                context.Monkeylogs.Add(m);
+                context.MonkeyLogs.Add(m);
                 context.SaveChanges();
             }
         }
@@ -28,7 +25,7 @@ namespace DataLayer
         {
             using(var context = new MyDBContext()) 
             {
-                context.txtLogs.Add(l);
+                context.TxtLogs.Add(l);
                 context.SaveChanges();
             }
         }
@@ -38,7 +35,8 @@ namespace DataLayer
             int lastForest = 0;
             using (var context = new MyDBContext())
             {
-                lastForest = context.forestlogs.ToList().Last().ForestId;
+               lastForest = context.ForestLogs.ToList().Last().ForestId;
+             
             }
             return lastForest;
         }
@@ -47,7 +45,7 @@ namespace DataLayer
             int lastTree = 0;
             using (var context = new MyDBContext())
             {
-                lastTree = context.forestlogs.ToList().Last().TreeId;
+                lastTree = context.ForestLogs.ToList().Last().TreeId;
             }
             return lastTree;
         }
@@ -57,7 +55,7 @@ namespace DataLayer
             int lastMonkey = 0;
             using (var context = new MyDBContext())
             {
-                lastMonkey = context.txtLogs.Select(x => x.MonkeyId).ToList().Max();
+                lastMonkey = context.TxtLogs.Select(x => x.MonkeyId).ToList().Max();
             }
             return lastMonkey;
         }

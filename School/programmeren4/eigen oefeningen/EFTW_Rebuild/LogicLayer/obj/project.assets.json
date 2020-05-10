@@ -5844,11 +5844,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\LogicLayer\\LogicLayer.csproj",
+      "projectUniqueName": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\LogicLayer\\LogicLayer.csproj",
       "projectName": "LogicLayer",
-      "projectPath": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\LogicLayer\\LogicLayer.csproj",
+      "projectPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\LogicLayer\\LogicLayer.csproj",
       "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\LogicLayer\\obj\\",
+      "outputPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\LogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5864,8 +5864,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj"
+            "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj": {
+              "projectPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj"
             }
           }
         }

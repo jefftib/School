@@ -19,6 +19,7 @@ namespace DataLayer.Mmodel
             this.X = x;
             this.Y = y;
         }
+        public ForestLog() { }
 
     }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj": {}
+    "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj": {}
   },
   "projects": {
-    "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj": {
+    "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj",
+        "projectUniqueName": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj",
         "projectName": "DataLayer",
-        "projectPath": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj",
+        "projectPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\DataLayer\\DataLayer.csproj",
         "packagesPath": "C:\\Users\\jeffr\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\jeffr\\Desktop\\EFTW_Rebuild\\DataLayer\\obj\\",
+        "outputPath": "C:\\Users\\jeffr\\Desktop\\repos\\School\\programmeren4\\eigen oefeningen\\EFTW_Rebuild\\DataLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeffr\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -15,15 +15,18 @@ namespace DataLayer.Mmodel
         public int X { get; set; }
         public int Y { get; set; }
 
-        public Monkeylog(string Monkeyname, int forestId, int SequenceNumber, int TreeId, int X, int Y) 
+        public Monkeylog(int MonkeyId, string Monkeyname, int forestId, int SequenceNumber, int TreeId, int X, int Y) 
         {
-            this.ForestId = forestId;
+            this.MonkeyId = MonkeyId;
             this.MonkeyName = Monkeyname;
+            this.ForestId = forestId;
             this.SequenceNumber = SequenceNumber;
             this.TreeId = TreeId;
             this.X = X;
             this.Y = Y;
         }
+
+        public Monkeylog() { }
         
     }
 }

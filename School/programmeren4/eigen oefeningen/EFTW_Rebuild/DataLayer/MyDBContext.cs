@@ -1,14 +1,14 @@
-﻿using Microsoft.Data.SqlClient;
-using System.Configuration;
+﻿
 using Microsoft.EntityFrameworkCore;
 using DataLayer.Mmodel;
 namespace DataLayer
 {
     public class MyDBContext : DbContext
     {
-        public DbSet<ForestLog> forestlogs { get; set; }
-        public DbSet<Monkeylog> Monkeylogs { get; set; }
-        public DbSet<txtLog> txtLogs { get; set; }
+        public DbSet<ForestLog> ForestLogs { get; set; }
+        public DbSet<Monkeylog> MonkeyLogs { get; set; }
+    
+        public DbSet<txtLog> TxtLogs { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
