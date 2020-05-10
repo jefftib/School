@@ -1,0 +1,28 @@
+Ned has left the forest
+Edna jumps to tree 11 at(67,38)
+Bart jumps to tree 90 at(86,94)
+Homer jumps to tree 58 at(10,75)
+Moe has left the forest
+Moe has left the forest
+Moe has left the forest
+Lisa jumps to tree 51 at(69,29)
+Ned jumps to tree 73 at(78,47)
+Tod jumps to tree 28 at(83,77)
+Nelson jumps to tree 3 at(58,14)
+Maggie has left the forest
+Edna jumps to tree 56 at(62,33)
+Bart jumps to tree 12 at(85,94)
+Homer jumps to tree 43 at(13,73)
+Lisa jumps to tree 9 at(67,25)
+Ned jumps to tree 99 at(70,48)
+Tod jumps to tree 50 at(77,71)
+Nelson jumps to tree 78 at(58,7)
+Lisa jumps to tree 7 at(65,25)
+Ned jumps to tree 24 at(71,42)
+Tod jumps to tree 54 at(76,68)
+Nelson jumps to tree 13 at(63,9)
+Ned jumps to tree 11 at(67,38)
+Tod jumps to tree 72 at(81,68)
+Nelson jumps to tree 85 at(64,1)
+Tod jumps to tree 21 at(87,56)
+Nelson has left the forest

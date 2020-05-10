@@ -1,0 +1,10 @@
+Lisa jumps to tree 6 at(45,79)
+Edna jumps to tree 6 at(45,79)
+Lisa jumps to tree 1 at(44,69)
+Edna jumps to tree 0 at(40,78)
+Lisa jumps to tree 3 at(50,88)
+Edna jumps to tree 1 at(44,69)
+Lisa has left the forest
+Edna jumps to tree 4 at(53,44)
+Edna jumps to tree 5 at(71,64)
+Edna has left the forest

@@ -1,0 +1,22 @@
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.csprojAssemblyReference.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.AssemblyInfoInputs.cache
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.AssemblyInfo.cs
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\EscapeFromTheWoods.exe
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.csprojAssemblyReference.cache
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.AssemblyInfoInputs.cache
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.AssemblyInfo.cs
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\EscapeFromTheWoods.exe
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\EscapeFromTheWoods.deps.json
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\EscapeFromTheWoods.runtimeconfig.json
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\EscapeFromTheWoods.runtimeconfig.dev.json
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\EscapeFromTheWoods.dll
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\EscapeFromTheWoods.pdb
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.csproj.CopyComplete
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.dll
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\obj\Debug\netcoreapp3.1\EscapeFromTheWoods.pdb
+D:\Users\jeffr\Desktop\EscapeFromTheWoods\bin\Debug\netcoreapp3.1\EscapeFromTheWoods.dll.config

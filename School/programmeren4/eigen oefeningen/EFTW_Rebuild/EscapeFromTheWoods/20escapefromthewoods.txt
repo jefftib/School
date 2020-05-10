@@ -1,0 +1,13 @@
+Marge has left the forest
+Nelson has left the forest
+Maggie has left the forest
+Nelson jumps to tree 29 at(13,6)
+Marge jumps to tree 6 at(12,91)
+Ned jumps to tree 99 at(42,32)
+Ned has left the forest
+Nelson jumps to tree 20 at(11,5)
+Marge jumps to tree 23 at(10,93)
+Ned jumps to tree 26 at(43,29)
+Marge jumps to tree 42 at(15,93)
+Ned jumps to tree 9 at(51,26)
+Ned jumps to tree 12 at(58,22)

@@ -1,0 +1,24 @@
+Marge jumps to tree 13 at(64,48)
+Tod jumps to tree 70 at(18,68)
+Milhouse jumps to tree 61 at(67,62)
+Bart jumps to tree 28 at(42,66)
+Homer has left the forest
+Milhouse has left the forest
+Bart has left the forest
+Maggie jumps to tree 96 at(90,91)
+Maggie jumps to tree 16 at(84,58)
+Marge jumps to tree 84 at(62,99)
+Bart jumps to tree 14 at(86,39)
+Lisa has left the forest
+Marge jumps to tree 99 at(61,52)
+Tod jumps to tree 53 at(15,75)
+Milhouse jumps to tree 88 at(66,68)
+Bart jumps to tree 20 at(40,61)
+Maggie jumps to tree 30 at(94,88)
+Maggie jumps to tree 2 at(90,59)
+Marge has left the forest
+Bart jumps to tree 18 at(82,31)
+Maggie jumps to tree 57 at(93,83)
+Maggie jumps to tree 68 at(93,53)
+Bart jumps to tree 31 at(84,30)
+Bart jumps to tree 17 at(78,28)

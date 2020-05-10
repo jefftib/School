@@ -1,0 +1,26 @@
+Edna jumps to tree 89 at(11,91)
+Marge has left the forest
+Homer jumps to tree 47 at(55,89)
+Marge jumps to tree 61 at(10,87)
+Milhouse has left the forest
+Moe jumps to tree 42 at(68,6)
+Edna jumps to tree 39 at(89,60)
+Milhouse has left the forest
+Bart jumps to tree 2 at(55,17)
+Edna has left the forest
+Maggie has left the forest
+Maggie jumps to tree 68 at(54,21)
+Edna jumps to tree 86 at(10,91)
+Homer jumps to tree 90 at(57,96)
+Marge jumps to tree 86 at(10,91)
+Moe has left the forest
+Edna jumps to tree 64 at(96,61)
+Bart jumps to tree 17 at(59,16)
+Maggie jumps to tree 2 at(55,17)
+Edna has left the forest
+Bart jumps to tree 92 at(69,15)
+Maggie jumps to tree 17 at(59,16)
+Maggie jumps to tree 92 at(69,15)
+Maggie jumps to tree 42 at(68,6)
+Maggie jumps to tree 31 at(65,4)
+Maggie has left the forest

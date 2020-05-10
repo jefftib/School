@@ -1,0 +1,11 @@
+Marge jumps to tree 3 at(58,96)
+Milhouse jumps to tree 0 at(59,97)
+Marge has left the forest
+Milhouse has left the forest
+Edna jumps to tree 5 at(35,34)
+Tod jumps to tree 5 at(35,34)
+Edna jumps to tree 8 at(48,32)
+Tod jumps to tree 1 at(18,33)
+Edna jumps to tree 7 at(76,35)
+Tod has left the forest
+Edna jumps to tree 0 at(87,35)

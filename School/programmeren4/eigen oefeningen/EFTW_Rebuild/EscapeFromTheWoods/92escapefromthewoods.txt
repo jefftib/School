@@ -1,0 +1,10 @@
+Nelson jumps to tree 8 at(34,96)
+Ned jumps to tree 14 at(99,62)
+Marge has left the forest
+Lisa has left the forest
+Edna jumps to tree 75 at(92,22)
+Nelson has left the forest
+Ned has left the forest
+Edna jumps to tree 22 at(91,17)
+Edna jumps to tree 59 at(94,10)
+Edna has left the forest

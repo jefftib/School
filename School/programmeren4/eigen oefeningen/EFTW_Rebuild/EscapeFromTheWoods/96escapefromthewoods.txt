@@ -1,0 +1,18 @@
+Maggie jumps to tree 16 at(45,36)
+Edna jumps to tree 84 at(84,11)
+Milhouse has left the forest
+Marge has left the forest
+Edna jumps to tree 17 at(36,85)
+Maggie jumps to tree 39 at(48,35)
+Edna jumps to tree 34 at(78,14)
+Edna jumps to tree 32 at(43,83)
+Edna jumps to tree 73 at(43,78)
+Edna jumps to tree 52 at(55,81)
+Edna jumps to tree 27 at(54,85)
+Edna jumps to tree 88 at(56,86)
+Edna jumps to tree 82 at(60,80)
+Edna jumps to tree 45 at(68,83)
+Edna jumps to tree 92 at(70,84)
+Edna jumps to tree 18 at(71,93)
+Edna jumps to tree 96 at(69,96)
+Edna has left the forest

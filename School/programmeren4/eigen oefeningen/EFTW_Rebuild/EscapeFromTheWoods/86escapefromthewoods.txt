@@ -1,0 +1,38 @@
+Tod jumps to tree 53 at(36,78)
+Milhouse jumps to tree 27 at(54,77)
+Edna jumps to tree 54 at(71,16)
+Ned jumps to tree 7 at(83,56)
+Bart jumps to tree 23 at(64,28)
+Maggie jumps to tree 22 at(9,98)
+Bart jumps to tree 73 at(76,86)
+Maggie jumps to tree 52 at(86,76)
+Edna jumps to tree 76 at(77,35)
+Maggie jumps to tree 58 at(33,78)
+Tod jumps to tree 29 at(16,22)
+Maggie has left the forest
+Tod jumps to tree 98 at(43,79)
+Milhouse jumps to tree 41 at(54,81)
+Edna jumps to tree 5 at(66,10)
+Ned jumps to tree 50 at(71,56)
+Bart jumps to tree 86 at(64,30)
+Maggie has left the forest
+Bart jumps to tree 79 at(75,95)
+Maggie jumps to tree 68 at(95,77)
+Edna jumps to tree 62 at(72,33)
+Maggie jumps to tree 10 at(24,78)
+Tod jumps to tree 46 at(10,18)
+Milhouse jumps to tree 34 at(49,80)
+Edna jumps to tree 36 at(59,7)
+Ned jumps to tree 13 at(66,57)
+Bart jumps to tree 60 at(61,35)
+Bart has left the forest
+Maggie has left the forest
+Edna jumps to tree 18 at(68,26)
+Maggie jumps to tree 87 at(17,92)
+Tod jumps to tree 94 at(8,24)
+Ned jumps to tree 39 at(71,50)
+Bart jumps to tree 67 at(58,30)
+Edna jumps to tree 23 at(64,28)
+Maggie has left the forest
+Tod has left the forest
+Edna jumps to tree 86 at(64,30)

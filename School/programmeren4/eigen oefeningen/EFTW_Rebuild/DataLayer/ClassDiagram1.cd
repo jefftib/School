@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DataLayer.Mmodel.ForestLog">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAAAAAAAEAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Mmodel\ForestLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataLayer.Mmodel.Monkeylog">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQECAAAgAAAEAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Mmodel\Monkeylog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DataLayer.Mmodel.txtLog">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAAAAAAAEAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Mmodel\txtLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

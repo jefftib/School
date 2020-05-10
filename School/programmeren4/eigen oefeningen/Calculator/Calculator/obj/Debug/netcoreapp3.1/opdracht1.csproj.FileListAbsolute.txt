@@ -8,3 +8,4 @@ C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Ca
 C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\obj\Debug\netcoreapp3.1\opdracht1.AssemblyInfo.cs
 C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\obj\Debug\netcoreapp3.1\opdracht1.dll
 C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\obj\Debug\netcoreapp3.1\opdracht1.pdb
+C:\Users\jeffr\Desktop\repos\School\programmeren4\eigen oefeningen\Calculator\Calculator\obj\Debug\netcoreapp3.1\opdracht1.csprojAssemblyReference.cache

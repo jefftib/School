@@ -1,0 +1,12 @@
+Milhouse jumps to tree 44 at(19,54)
+Edna jumps to tree 60 at(55,2)
+Tod jumps to tree 56 at(63,77)
+Milhouse jumps to tree 0 at(87,42)
+Edna has left the forest
+Milhouse jumps to tree 67 at(23,61)
+Edna has left the forest
+Tod jumps to tree 53 at(59,78)
+Milhouse jumps to tree 33 at(92,47)
+Tod jumps to tree 4 at(56,83)
+Milhouse jumps to tree 21 at(95,48)
+Milhouse jumps to tree 30 at(98,45)

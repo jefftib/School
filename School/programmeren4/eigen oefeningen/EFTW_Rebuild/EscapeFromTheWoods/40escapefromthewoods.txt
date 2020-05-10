@@ -1,0 +1,26 @@
+Moe jumps to tree 82 at(51,88)
+Lisa jumps to tree 30 at(29,53)
+Moe jumps to tree 65 at(41,64)
+Maggie jumps to tree 14 at(58,87)
+Tod jumps to tree 28 at(40,81)
+Milhouse jumps to tree 28 at(40,81)
+Maggie has left the forest
+Bart has left the forest
+Moe jumps to tree 10 at(15,27)
+Homer jumps to tree 61 at(94,90)
+Moe has left the forest
+Moe jumps to tree 8 at(11,31)
+Moe jumps to tree 39 at(53,89)
+Lisa jumps to tree 16 at(31,54)
+Moe jumps to tree 99 at(40,59)
+Maggie jumps to tree 87 at(56,90)
+Tod jumps to tree 37 at(36,76)
+Milhouse jumps to tree 42 at(38,82)
+Moe jumps to tree 95 at(21,25)
+Homer has left the forest
+Moe has left the forest
+Maggie jumps to tree 39 at(53,89)
+Tod jumps to tree 48 at(34,77)
+Milhouse jumps to tree 6 at(35,87)
+Moe jumps to tree 77 at(33,25)
+Moe jumps to tree 40 at(41,25)

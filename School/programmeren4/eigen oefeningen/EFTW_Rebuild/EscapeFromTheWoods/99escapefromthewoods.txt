@@ -1,0 +1,13 @@
+Edna jumps to tree 46 at(3,53)
+Moe jumps to tree 22 at(64,11)
+Ned jumps to tree 70 at(5,53)
+Moe jumps to tree 57 at(92,9)
+Tod jumps to tree 41 at(89,17)
+Edna has left the forest
+Moe jumps to tree 78 at(66,9)
+Ned has left the forest
+Moe jumps to tree 40 at(96,4)
+Tod jumps to tree 49 at(96,14)
+Moe jumps to tree 67 at(59,5)
+Moe has left the forest
+Tod has left the forest
